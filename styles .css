@@ -1,0 +1,17 @@
+/* Tall Section */
+.section-content {
+  height: 1000px;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+/* Full width mobile dropdown */
+#mobile-menu {
+  width: 100%;
+  background-color: #e0e0e0;
+}
+
+/* Navbar scrolls (NOT fixed) */
+.navbar {
+  position: static;
+}
