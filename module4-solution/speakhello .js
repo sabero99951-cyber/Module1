@@ -6,6 +6,7 @@
     console.log(speakWord + " " + name);
   };
 
+  // expose to global
   window.helloSpeaker = helloSpeaker;
 
 })(window);
