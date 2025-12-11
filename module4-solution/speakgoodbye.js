@@ -6,6 +6,8 @@
     console.log(speakWord + " " + name);
   };
 
+  // expose to global
   window.byeSpeaker = byeSpeaker;
 
 })(window);
+
